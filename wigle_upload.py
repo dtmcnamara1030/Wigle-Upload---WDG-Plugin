@@ -14,7 +14,7 @@ log = logging.getLogger(__name__)
 class WigleUpload(PluginBase):
     NAME = "Watch Dogs Go WiGLE Sync"
     VERSION = "1.0"
-    AUTHOR = "Antigravity"
+    AUTHOR = "dtmcnamara"
 
     def __init__(self):
         super().__init__()
